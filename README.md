@@ -12,10 +12,10 @@ Skriv en kort forklaring på hva du gjorde
 ---
 
 ## Github/workflows
-*   - python-app.yml
+*   python-app.yml
 
 ## Oblig 2
-   ###test/
+   ### test/
 -     __pycache__ /
 -       ...
 -     boolisLeapYear.py
