@@ -17,7 +17,6 @@ Repository - Innhold
 *   test/
 *     __pycache__ /
 *       ...
-*       
 *     boolisLeapYear.py
 *     test_boolisLeapYear.py
 * .gitignore
