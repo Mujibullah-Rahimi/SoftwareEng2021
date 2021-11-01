@@ -27,4 +27,5 @@ Skriv en kort forklaring på hva du gjorde
 └── .gitignore
 ```
 
-Gå til Github -> Actions for å se kjøring av tester og at de passerer (eller ikke)
+---
+## Gå til Github -> Actions for å se kjøring av tester og at de passerer (eller ikke)
