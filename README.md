@@ -11,16 +11,20 @@ Skriv en kort forklaring på hva du gjorde
 
 ## Repository - Innhold
 
-## Github/workflows
-*   python-app.yml
-
-## Oblig 2
-   ### test/
--     __pycache__ /
--       ...
--     boolisLeapYear.py
--     test_boolisLeapYear.py
-- .gitignore
-- README.md
+```bash
+├── github
+│   └── workflows
+│       └── python-app.yml
+├── Oblig2
+│   └── test
+│       ├── __pycache__
+|       |      └── ...
+│       ├── boolisLeapYear.py
+|       └── test_boolisLeapYear.py
+│   ├── main.py
+│   └── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 Gå til Github -> Actions for å se kjøring av tester og at de passerer (eller ikke)
