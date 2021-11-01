@@ -8,13 +8,13 @@ Skriv en kort forklaring på hva du gjorde
 * Jeg gjorde commits både for å sjekke om det funket eller ikke (når testene var feil), og at testene ble kjørt dersom man commitet/pushet noe til Github
 
 
-Repository - Innhold
+## Repository - Innhold
 ---
-* Github/workflows
+### Github/workflows
 *   - python-app.yml
 ---
-* Oblig 2
-*   test/
+### Oblig 2
+*   ####test/
 *     __pycache__ /
 *       ...
 *     boolisLeapYear.py
