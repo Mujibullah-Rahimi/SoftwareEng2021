@@ -13,7 +13,7 @@ def test_year_is_leap_year_when_divisible_by_4_but_not_100():
 
 # A year is not a leap year if it isn't divisible by 4
 def test_year_is_not_leap_year_when_not_divisible_by_4():
-    assert boolisLeapYear(2023) is False
+    assert boolisLeapYear(2023) is True
     assert boolisLeapYear(1937) is False
 
     assert boolisLeapYear(1932) is True
