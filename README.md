@@ -7,9 +7,9 @@ Skriv en kort forklaring på hva du gjorde
 * Deretter la jeg til Oblig 2 som innholdt boolIsLeapYear og tester for den, inn i samme repository
 * Jeg gjorde commits både for å sjekke om det funket eller ikke (når testene var feil), og at testene ble kjørt dersom man commitet/pushet noe til Github
 
+---
 
 ## Repository - Innhold
----
 
 ## Github/workflows
 *   python-app.yml
